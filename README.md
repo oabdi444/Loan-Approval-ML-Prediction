@@ -52,14 +52,14 @@ The **Decision Tree Classifier** shows exceptional performance, demonstrating it
 
 ---
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 - End-to-end ML project demonstrating **practical data science skills**.  
 - Highlights proficiency in **data preparation, visualisation, and model optimisation**.  
 - Strong emphasis on **interpretable metrics** and real-world application relevance.
 
 ---
 
-## 🧑‍💻 How to Run
+##  How to Run
 1. Clone this repository:  
    ```bash
    git clone https://github.com/YOUR_USERNAME/loan-approval-ml.git
